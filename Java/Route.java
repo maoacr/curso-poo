@@ -1,5 +1,5 @@
 class Route {
  Integer id;
- ArrayList<Double> strart;
- ArrayList<Double> end; 
+ //ArrayList<Double> strart;
+ //ArrayList<Double> end; 
 }
