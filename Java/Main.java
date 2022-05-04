@@ -13,4 +13,4 @@ class Main {
       car2.passegenger = 3;
       car2.printDataCar();*/
   }
-}
+} 
